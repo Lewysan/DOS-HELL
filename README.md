@@ -1,2 +1,2 @@
 # DOS-HELL
-Just for windows
+For windows only
